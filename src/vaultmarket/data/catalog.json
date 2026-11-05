@@ -1,0 +1,1451 @@
+{
+ "wear_labels": [
+  "Pristine",
+  "Lightly worn",
+  "Worn",
+  "Heavily worn",
+  "Battered"
+ ],
+ "items": [
+  {
+   "kind": "Switchblade",
+   "material": "Standard",
+   "wear": 0,
+   "base_price": 8000
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Standard",
+   "wear": 1,
+   "base_price": 7200
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Standard",
+   "wear": 2,
+   "base_price": 6030
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Standard",
+   "wear": 3,
+   "base_price": 4663
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Standard",
+   "wear": 4,
+   "base_price": 3150
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Gold",
+   "wear": 0,
+   "base_price": 10000
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Gold",
+   "wear": 1,
+   "base_price": 9500
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Gold",
+   "wear": 2,
+   "base_price": 8769
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Gold",
+   "wear": 3,
+   "base_price": 7914
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Gold",
+   "wear": 4,
+   "base_price": 6969
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Obsidian",
+   "wear": 0,
+   "base_price": 16000
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Obsidian",
+   "wear": 1,
+   "base_price": 15467
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Obsidian",
+   "wear": 2,
+   "base_price": 14687
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Obsidian",
+   "wear": 3,
+   "base_price": 13775
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Obsidian",
+   "wear": 4,
+   "base_price": 12766
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Ruby",
+   "wear": 0,
+   "base_price": 26000
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Ruby",
+   "wear": 1,
+   "base_price": 25350
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Ruby",
+   "wear": 2,
+   "base_price": 24400
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Ruby",
+   "wear": 3,
+   "base_price": 23289
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Ruby",
+   "wear": 4,
+   "base_price": 22059
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Sapphire",
+   "wear": 0,
+   "base_price": 40000
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Sapphire",
+   "wear": 1,
+   "base_price": 39200
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Sapphire",
+   "wear": 2,
+   "base_price": 38030
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Sapphire",
+   "wear": 3,
+   "base_price": 36663
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Sapphire",
+   "wear": 4,
+   "base_price": 35150
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Emerald",
+   "wear": 0,
+   "base_price": 58000
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Emerald",
+   "wear": 1,
+   "base_price": 57033
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Emerald",
+   "wear": 2,
+   "base_price": 55620
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Emerald",
+   "wear": 3,
+   "base_price": 53968
+  },
+  {
+   "kind": "Switchblade",
+   "material": "Emerald",
+   "wear": 4,
+   "base_price": 52139
+  },
+  {
+   "kind": "Bowie",
+   "material": "Standard",
+   "wear": 0,
+   "base_price": 14000
+  },
+  {
+   "kind": "Bowie",
+   "material": "Standard",
+   "wear": 1,
+   "base_price": 12600
+  },
+  {
+   "kind": "Bowie",
+   "material": "Standard",
+   "wear": 2,
+   "base_price": 10553
+  },
+  {
+   "kind": "Bowie",
+   "material": "Standard",
+   "wear": 3,
+   "base_price": 8160
+  },
+  {
+   "kind": "Bowie",
+   "material": "Standard",
+   "wear": 4,
+   "base_price": 5512
+  },
+  {
+   "kind": "Bowie",
+   "material": "Gold",
+   "wear": 0,
+   "base_price": 17500
+  },
+  {
+   "kind": "Bowie",
+   "material": "Gold",
+   "wear": 1,
+   "base_price": 16625
+  },
+  {
+   "kind": "Bowie",
+   "material": "Gold",
+   "wear": 2,
+   "base_price": 15345
+  },
+  {
+   "kind": "Bowie",
+   "material": "Gold",
+   "wear": 3,
+   "base_price": 13850
+  },
+  {
+   "kind": "Bowie",
+   "material": "Gold",
+   "wear": 4,
+   "base_price": 12195
+  },
+  {
+   "kind": "Bowie",
+   "material": "Obsidian",
+   "wear": 0,
+   "base_price": 28000
+  },
+  {
+   "kind": "Bowie",
+   "material": "Obsidian",
+   "wear": 1,
+   "base_price": 27067
+  },
+  {
+   "kind": "Bowie",
+   "material": "Obsidian",
+   "wear": 2,
+   "base_price": 25702
+  },
+  {
+   "kind": "Bowie",
+   "material": "Obsidian",
+   "wear": 3,
+   "base_price": 24107
+  },
+  {
+   "kind": "Bowie",
+   "material": "Obsidian",
+   "wear": 4,
+   "base_price": 22341
+  },
+  {
+   "kind": "Bowie",
+   "material": "Ruby",
+   "wear": 0,
+   "base_price": 45500
+  },
+  {
+   "kind": "Bowie",
+   "material": "Ruby",
+   "wear": 1,
+   "base_price": 44362
+  },
+  {
+   "kind": "Bowie",
+   "material": "Ruby",
+   "wear": 2,
+   "base_price": 42699
+  },
+  {
+   "kind": "Bowie",
+   "material": "Ruby",
+   "wear": 3,
+   "base_price": 40755
+  },
+  {
+   "kind": "Bowie",
+   "material": "Ruby",
+   "wear": 4,
+   "base_price": 38603
+  },
+  {
+   "kind": "Bowie",
+   "material": "Sapphire",
+   "wear": 0,
+   "base_price": 70000
+  },
+  {
+   "kind": "Bowie",
+   "material": "Sapphire",
+   "wear": 1,
+   "base_price": 68600
+  },
+  {
+   "kind": "Bowie",
+   "material": "Sapphire",
+   "wear": 2,
+   "base_price": 66553
+  },
+  {
+   "kind": "Bowie",
+   "material": "Sapphire",
+   "wear": 3,
+   "base_price": 64160
+  },
+  {
+   "kind": "Bowie",
+   "material": "Sapphire",
+   "wear": 4,
+   "base_price": 61512
+  },
+  {
+   "kind": "Bowie",
+   "material": "Emerald",
+   "wear": 0,
+   "base_price": 101500
+  },
+  {
+   "kind": "Bowie",
+   "material": "Emerald",
+   "wear": 1,
+   "base_price": 99808
+  },
+  {
+   "kind": "Bowie",
+   "material": "Emerald",
+   "wear": 2,
+   "base_price": 97335
+  },
+  {
+   "kind": "Bowie",
+   "material": "Emerald",
+   "wear": 3,
+   "base_price": 94444
+  },
+  {
+   "kind": "Bowie",
+   "material": "Emerald",
+   "wear": 4,
+   "base_price": 91244
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Standard",
+   "wear": 0,
+   "base_price": 30000
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Standard",
+   "wear": 1,
+   "base_price": 27000
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Standard",
+   "wear": 2,
+   "base_price": 22613
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Standard",
+   "wear": 3,
+   "base_price": 17486
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Standard",
+   "wear": 4,
+   "base_price": 11811
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Gold",
+   "wear": 0,
+   "base_price": 37500
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Gold",
+   "wear": 1,
+   "base_price": 35625
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Gold",
+   "wear": 2,
+   "base_price": 32883
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Gold",
+   "wear": 3,
+   "base_price": 29679
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Gold",
+   "wear": 4,
+   "base_price": 26132
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Obsidian",
+   "wear": 0,
+   "base_price": 60000
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Obsidian",
+   "wear": 1,
+   "base_price": 58000
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Obsidian",
+   "wear": 2,
+   "base_price": 55075
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Obsidian",
+   "wear": 3,
+   "base_price": 51658
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Obsidian",
+   "wear": 4,
+   "base_price": 47874
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Ruby",
+   "wear": 0,
+   "base_price": 97500
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Ruby",
+   "wear": 1,
+   "base_price": 95062
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Ruby",
+   "wear": 2,
+   "base_price": 91498
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Ruby",
+   "wear": 3,
+   "base_price": 87333
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Ruby",
+   "wear": 4,
+   "base_price": 82722
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Sapphire",
+   "wear": 0,
+   "base_price": 150000
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Sapphire",
+   "wear": 1,
+   "base_price": 147000
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Sapphire",
+   "wear": 2,
+   "base_price": 142613
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Sapphire",
+   "wear": 3,
+   "base_price": 137486
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Sapphire",
+   "wear": 4,
+   "base_price": 131811
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Emerald",
+   "wear": 0,
+   "base_price": 217500
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Emerald",
+   "wear": 1,
+   "base_price": 213875
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Emerald",
+   "wear": 2,
+   "base_price": 208574
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Emerald",
+   "wear": 3,
+   "base_price": 202380
+  },
+  {
+   "kind": "Butterfly",
+   "material": "Emerald",
+   "wear": 4,
+   "base_price": 195522
+  },
+  {
+   "kind": "Karambit",
+   "material": "Standard",
+   "wear": 0,
+   "base_price": 27000
+  },
+  {
+   "kind": "Karambit",
+   "material": "Standard",
+   "wear": 1,
+   "base_price": 24300
+  },
+  {
+   "kind": "Karambit",
+   "material": "Standard",
+   "wear": 2,
+   "base_price": 20352
+  },
+  {
+   "kind": "Karambit",
+   "material": "Standard",
+   "wear": 3,
+   "base_price": 15738
+  },
+  {
+   "kind": "Karambit",
+   "material": "Standard",
+   "wear": 4,
+   "base_price": 10630
+  },
+  {
+   "kind": "Karambit",
+   "material": "Gold",
+   "wear": 0,
+   "base_price": 33750
+  },
+  {
+   "kind": "Karambit",
+   "material": "Gold",
+   "wear": 1,
+   "base_price": 32062
+  },
+  {
+   "kind": "Karambit",
+   "material": "Gold",
+   "wear": 2,
+   "base_price": 29595
+  },
+  {
+   "kind": "Karambit",
+   "material": "Gold",
+   "wear": 3,
+   "base_price": 26711
+  },
+  {
+   "kind": "Karambit",
+   "material": "Gold",
+   "wear": 4,
+   "base_price": 23519
+  },
+  {
+   "kind": "Karambit",
+   "material": "Obsidian",
+   "wear": 0,
+   "base_price": 54000
+  },
+  {
+   "kind": "Karambit",
+   "material": "Obsidian",
+   "wear": 1,
+   "base_price": 52200
+  },
+  {
+   "kind": "Karambit",
+   "material": "Obsidian",
+   "wear": 2,
+   "base_price": 49568
+  },
+  {
+   "kind": "Karambit",
+   "material": "Obsidian",
+   "wear": 3,
+   "base_price": 46492
+  },
+  {
+   "kind": "Karambit",
+   "material": "Obsidian",
+   "wear": 4,
+   "base_price": 43087
+  },
+  {
+   "kind": "Karambit",
+   "material": "Ruby",
+   "wear": 0,
+   "base_price": 87750
+  },
+  {
+   "kind": "Karambit",
+   "material": "Ruby",
+   "wear": 1,
+   "base_price": 85556
+  },
+  {
+   "kind": "Karambit",
+   "material": "Ruby",
+   "wear": 2,
+   "base_price": 82348
+  },
+  {
+   "kind": "Karambit",
+   "material": "Ruby",
+   "wear": 3,
+   "base_price": 78600
+  },
+  {
+   "kind": "Karambit",
+   "material": "Ruby",
+   "wear": 4,
+   "base_price": 74450
+  },
+  {
+   "kind": "Karambit",
+   "material": "Sapphire",
+   "wear": 0,
+   "base_price": 135000
+  },
+  {
+   "kind": "Karambit",
+   "material": "Sapphire",
+   "wear": 1,
+   "base_price": 132300
+  },
+  {
+   "kind": "Karambit",
+   "material": "Sapphire",
+   "wear": 2,
+   "base_price": 128352
+  },
+  {
+   "kind": "Karambit",
+   "material": "Sapphire",
+   "wear": 3,
+   "base_price": 123738
+  },
+  {
+   "kind": "Karambit",
+   "material": "Sapphire",
+   "wear": 4,
+   "base_price": 118630
+  },
+  {
+   "kind": "Karambit",
+   "material": "Emerald",
+   "wear": 0,
+   "base_price": 195750
+  },
+  {
+   "kind": "Karambit",
+   "material": "Emerald",
+   "wear": 1,
+   "base_price": 192488
+  },
+  {
+   "kind": "Karambit",
+   "material": "Emerald",
+   "wear": 2,
+   "base_price": 187717
+  },
+  {
+   "kind": "Karambit",
+   "material": "Emerald",
+   "wear": 3,
+   "base_price": 182142
+  },
+  {
+   "kind": "Karambit",
+   "material": "Emerald",
+   "wear": 4,
+   "base_price": 175970
+  },
+  {
+   "kind": "Hunting",
+   "material": "Standard",
+   "wear": 0,
+   "base_price": 11000
+  },
+  {
+   "kind": "Hunting",
+   "material": "Standard",
+   "wear": 1,
+   "base_price": 9900
+  },
+  {
+   "kind": "Hunting",
+   "material": "Standard",
+   "wear": 2,
+   "base_price": 8291
+  },
+  {
+   "kind": "Hunting",
+   "material": "Standard",
+   "wear": 3,
+   "base_price": 6412
+  },
+  {
+   "kind": "Hunting",
+   "material": "Standard",
+   "wear": 4,
+   "base_price": 4331
+  },
+  {
+   "kind": "Hunting",
+   "material": "Gold",
+   "wear": 0,
+   "base_price": 13750
+  },
+  {
+   "kind": "Hunting",
+   "material": "Gold",
+   "wear": 1,
+   "base_price": 13062
+  },
+  {
+   "kind": "Hunting",
+   "material": "Gold",
+   "wear": 2,
+   "base_price": 12057
+  },
+  {
+   "kind": "Hunting",
+   "material": "Gold",
+   "wear": 3,
+   "base_price": 10882
+  },
+  {
+   "kind": "Hunting",
+   "material": "Gold",
+   "wear": 4,
+   "base_price": 9582
+  },
+  {
+   "kind": "Hunting",
+   "material": "Obsidian",
+   "wear": 0,
+   "base_price": 22000
+  },
+  {
+   "kind": "Hunting",
+   "material": "Obsidian",
+   "wear": 1,
+   "base_price": 21267
+  },
+  {
+   "kind": "Hunting",
+   "material": "Obsidian",
+   "wear": 2,
+   "base_price": 20194
+  },
+  {
+   "kind": "Hunting",
+   "material": "Obsidian",
+   "wear": 3,
+   "base_price": 18941
+  },
+  {
+   "kind": "Hunting",
+   "material": "Obsidian",
+   "wear": 4,
+   "base_price": 17554
+  },
+  {
+   "kind": "Hunting",
+   "material": "Ruby",
+   "wear": 0,
+   "base_price": 35750
+  },
+  {
+   "kind": "Hunting",
+   "material": "Ruby",
+   "wear": 1,
+   "base_price": 34856
+  },
+  {
+   "kind": "Hunting",
+   "material": "Ruby",
+   "wear": 2,
+   "base_price": 33549
+  },
+  {
+   "kind": "Hunting",
+   "material": "Ruby",
+   "wear": 3,
+   "base_price": 32022
+  },
+  {
+   "kind": "Hunting",
+   "material": "Ruby",
+   "wear": 4,
+   "base_price": 30331
+  },
+  {
+   "kind": "Hunting",
+   "material": "Sapphire",
+   "wear": 0,
+   "base_price": 55000
+  },
+  {
+   "kind": "Hunting",
+   "material": "Sapphire",
+   "wear": 1,
+   "base_price": 53900
+  },
+  {
+   "kind": "Hunting",
+   "material": "Sapphire",
+   "wear": 2,
+   "base_price": 52291
+  },
+  {
+   "kind": "Hunting",
+   "material": "Sapphire",
+   "wear": 3,
+   "base_price": 50412
+  },
+  {
+   "kind": "Hunting",
+   "material": "Sapphire",
+   "wear": 4,
+   "base_price": 48331
+  },
+  {
+   "kind": "Hunting",
+   "material": "Emerald",
+   "wear": 0,
+   "base_price": 79750
+  },
+  {
+   "kind": "Hunting",
+   "material": "Emerald",
+   "wear": 1,
+   "base_price": 78421
+  },
+  {
+   "kind": "Hunting",
+   "material": "Emerald",
+   "wear": 2,
+   "base_price": 76477
+  },
+  {
+   "kind": "Hunting",
+   "material": "Emerald",
+   "wear": 3,
+   "base_price": 74206
+  },
+  {
+   "kind": "Hunting",
+   "material": "Emerald",
+   "wear": 4,
+   "base_price": 71691
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Standard",
+   "wear": 0,
+   "base_price": 17000
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Standard",
+   "wear": 1,
+   "base_price": 15300
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Standard",
+   "wear": 2,
+   "base_price": 12814
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Standard",
+   "wear": 3,
+   "base_price": 9909
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Standard",
+   "wear": 4,
+   "base_price": 6693
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Gold",
+   "wear": 0,
+   "base_price": 21250
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Gold",
+   "wear": 1,
+   "base_price": 20188
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Gold",
+   "wear": 2,
+   "base_price": 18634
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Gold",
+   "wear": 3,
+   "base_price": 16818
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Gold",
+   "wear": 4,
+   "base_price": 14808
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Obsidian",
+   "wear": 0,
+   "base_price": 34000
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Obsidian",
+   "wear": 1,
+   "base_price": 32867
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Obsidian",
+   "wear": 2,
+   "base_price": 31209
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Obsidian",
+   "wear": 3,
+   "base_price": 29273
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Obsidian",
+   "wear": 4,
+   "base_price": 27129
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Ruby",
+   "wear": 0,
+   "base_price": 55250
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Ruby",
+   "wear": 1,
+   "base_price": 53869
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Ruby",
+   "wear": 2,
+   "base_price": 51849
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Ruby",
+   "wear": 3,
+   "base_price": 49489
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Ruby",
+   "wear": 4,
+   "base_price": 46876
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Sapphire",
+   "wear": 0,
+   "base_price": 85000
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Sapphire",
+   "wear": 1,
+   "base_price": 83300
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Sapphire",
+   "wear": 2,
+   "base_price": 80814
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Sapphire",
+   "wear": 3,
+   "base_price": 77909
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Sapphire",
+   "wear": 4,
+   "base_price": 74693
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Emerald",
+   "wear": 0,
+   "base_price": 123250
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Emerald",
+   "wear": 1,
+   "base_price": 121196
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Emerald",
+   "wear": 2,
+   "base_price": 118192
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Emerald",
+   "wear": 3,
+   "base_price": 114682
+  },
+  {
+   "kind": "Skeleton",
+   "material": "Emerald",
+   "wear": 4,
+   "base_price": 110796
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Standard",
+   "wear": 0,
+   "base_price": 20000
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Standard",
+   "wear": 1,
+   "base_price": 18000
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Standard",
+   "wear": 2,
+   "base_price": 15075
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Standard",
+   "wear": 3,
+   "base_price": 11658
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Standard",
+   "wear": 4,
+   "base_price": 7874
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Gold",
+   "wear": 0,
+   "base_price": 25000
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Gold",
+   "wear": 1,
+   "base_price": 23750
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Gold",
+   "wear": 2,
+   "base_price": 21922
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Gold",
+   "wear": 3,
+   "base_price": 19786
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Gold",
+   "wear": 4,
+   "base_price": 17421
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Obsidian",
+   "wear": 0,
+   "base_price": 40000
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Obsidian",
+   "wear": 1,
+   "base_price": 38667
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Obsidian",
+   "wear": 2,
+   "base_price": 36717
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Obsidian",
+   "wear": 3,
+   "base_price": 34438
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Obsidian",
+   "wear": 4,
+   "base_price": 31916
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Ruby",
+   "wear": 0,
+   "base_price": 65000
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Ruby",
+   "wear": 1,
+   "base_price": 63375
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Ruby",
+   "wear": 2,
+   "base_price": 60999
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Ruby",
+   "wear": 3,
+   "base_price": 58222
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Ruby",
+   "wear": 4,
+   "base_price": 55148
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Sapphire",
+   "wear": 0,
+   "base_price": 100000
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Sapphire",
+   "wear": 1,
+   "base_price": 98000
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Sapphire",
+   "wear": 2,
+   "base_price": 95075
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Sapphire",
+   "wear": 3,
+   "base_price": 91658
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Sapphire",
+   "wear": 4,
+   "base_price": 87874
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Emerald",
+   "wear": 0,
+   "base_price": 145000
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Emerald",
+   "wear": 1,
+   "base_price": 142583
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Emerald",
+   "wear": 2,
+   "base_price": 139049
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Emerald",
+   "wear": 3,
+   "base_price": 134920
+  },
+  {
+   "kind": "Bayonet",
+   "material": "Emerald",
+   "wear": 4,
+   "base_price": 130348
+  },
+  {
+   "kind": "Kukri",
+   "material": "Standard",
+   "wear": 0,
+   "base_price": 23000
+  },
+  {
+   "kind": "Kukri",
+   "material": "Standard",
+   "wear": 1,
+   "base_price": 20700
+  },
+  {
+   "kind": "Kukri",
+   "material": "Standard",
+   "wear": 2,
+   "base_price": 17337
+  },
+  {
+   "kind": "Kukri",
+   "material": "Standard",
+   "wear": 3,
+   "base_price": 13406
+  },
+  {
+   "kind": "Kukri",
+   "material": "Standard",
+   "wear": 4,
+   "base_price": 9055
+  },
+  {
+   "kind": "Kukri",
+   "material": "Gold",
+   "wear": 0,
+   "base_price": 28750
+  },
+  {
+   "kind": "Kukri",
+   "material": "Gold",
+   "wear": 1,
+   "base_price": 27312
+  },
+  {
+   "kind": "Kukri",
+   "material": "Gold",
+   "wear": 2,
+   "base_price": 25210
+  },
+  {
+   "kind": "Kukri",
+   "material": "Gold",
+   "wear": 3,
+   "base_price": 22754
+  },
+  {
+   "kind": "Kukri",
+   "material": "Gold",
+   "wear": 4,
+   "base_price": 20035
+  },
+  {
+   "kind": "Kukri",
+   "material": "Obsidian",
+   "wear": 0,
+   "base_price": 46000
+  },
+  {
+   "kind": "Kukri",
+   "material": "Obsidian",
+   "wear": 1,
+   "base_price": 44467
+  },
+  {
+   "kind": "Kukri",
+   "material": "Obsidian",
+   "wear": 2,
+   "base_price": 42224
+  },
+  {
+   "kind": "Kukri",
+   "material": "Obsidian",
+   "wear": 3,
+   "base_price": 39604
+  },
+  {
+   "kind": "Kukri",
+   "material": "Obsidian",
+   "wear": 4,
+   "base_price": 36704
+  },
+  {
+   "kind": "Kukri",
+   "material": "Ruby",
+   "wear": 0,
+   "base_price": 74750
+  },
+  {
+   "kind": "Kukri",
+   "material": "Ruby",
+   "wear": 1,
+   "base_price": 72881
+  },
+  {
+   "kind": "Kukri",
+   "material": "Ruby",
+   "wear": 2,
+   "base_price": 70149
+  },
+  {
+   "kind": "Kukri",
+   "material": "Ruby",
+   "wear": 3,
+   "base_price": 66955
+  },
+  {
+   "kind": "Kukri",
+   "material": "Ruby",
+   "wear": 4,
+   "base_price": 63420
+  },
+  {
+   "kind": "Kukri",
+   "material": "Sapphire",
+   "wear": 0,
+   "base_price": 115000
+  },
+  {
+   "kind": "Kukri",
+   "material": "Sapphire",
+   "wear": 1,
+   "base_price": 112700
+  },
+  {
+   "kind": "Kukri",
+   "material": "Sapphire",
+   "wear": 2,
+   "base_price": 109337
+  },
+  {
+   "kind": "Kukri",
+   "material": "Sapphire",
+   "wear": 3,
+   "base_price": 105406
+  },
+  {
+   "kind": "Kukri",
+   "material": "Sapphire",
+   "wear": 4,
+   "base_price": 101055
+  },
+  {
+   "kind": "Kukri",
+   "material": "Emerald",
+   "wear": 0,
+   "base_price": 166750
+  },
+  {
+   "kind": "Kukri",
+   "material": "Emerald",
+   "wear": 1,
+   "base_price": 163971
+  },
+  {
+   "kind": "Kukri",
+   "material": "Emerald",
+   "wear": 2,
+   "base_price": 159907
+  },
+  {
+   "kind": "Kukri",
+   "material": "Emerald",
+   "wear": 3,
+   "base_price": 155158
+  },
+  {
+   "kind": "Kukri",
+   "material": "Emerald",
+   "wear": 4,
+   "base_price": 149900
+  }
+ ]
+}
