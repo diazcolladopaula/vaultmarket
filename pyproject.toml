@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vaultmarket"
+version = "1.0.0"
+description = "Terminal marketplace for virtual items whose entire state lives in one Argon2id + AES-256-GCM encrypted vault."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Paula Díaz Collado" }]
+dependencies = ["cryptography>=44.0"]
+keywords = ["cryptography", "aes-gcm", "argon2", "cli", "marketplace"]
+
+[project.urls]
+Homepage = "https://github.com/diazcolladopaula/vaultmarket"
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[project.scripts]
+vaultmarket = "vaultmarket.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+vaultmarket = ["data/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM"]
